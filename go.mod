@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/FederatedAI/KubeFATE/k8s-deploy v0.0.0-20200413035739-b2e0b5479815
-	github.com/go-logr/logr v0.1.0
+	github.com/go-logr/logr v0.3.0
 	github.com/onsi/ginkgo v1.11.0
 	github.com/onsi/gomega v1.8.1
 	github.com/spf13/viper v1.4.0 // indirect

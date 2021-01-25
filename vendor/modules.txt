@@ -14,7 +14,7 @@ github.com/davecgh/go-spew/spew
 github.com/evanphx/json-patch
 # github.com/fsnotify/fsnotify v1.4.7
 github.com/fsnotify/fsnotify
-# github.com/go-logr/logr v0.1.0
+# github.com/go-logr/logr v0.3.0
 github.com/go-logr/logr
 # github.com/go-logr/zapr v0.1.0
 github.com/go-logr/zapr
@@ -447,7 +447,6 @@ k8s.io/client-go/util/retry
 k8s.io/client-go/util/workqueue
 # k8s.io/klog v1.0.0
 k8s.io/klog
-k8s.io/klog/klogr
 # k8s.io/kube-openapi v0.0.0-20191107075043-30be4d16710a
 k8s.io/kube-openapi/pkg/util/proto
 # k8s.io/utils v0.0.0-20191114184206-e782cd3c129f
